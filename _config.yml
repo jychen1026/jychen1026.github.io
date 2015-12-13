@@ -3,17 +3,17 @@
 # ----------------------- #
 
 url: http://jychen1026.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Robert Chen's Blog
+subtitle: Something about digital marketing
+author: Robert Chen
 simple_search: https://www.google.com/search
-description:
+description: 为了学习rails，顺便记录一下平时工作中的心得。
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
 # Additionally, %o will give you the ordinal representation of the day
-date_format: "ordinal"
+date_format: "%Y 年%-m 月%-d 日"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
@@ -27,12 +27,13 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:title.html/
 source: source
 destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
+category_title_prefix: "分类："
 markdown: rdiscount
 rdiscount:
   extensions:
