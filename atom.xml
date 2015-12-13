@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Robert Chen's Blog]]></title>
+  <link href="http://jychen1026.github.io/atom.xml" rel="self"/>
+  <link href="http://jychen1026.github.io/"/>
+  <updated>2015-12-13T23:22:59+08:00</updated>
+  <id>http://jychen1026.github.io/</id>
+  <author>
+    <name><![CDATA[Robert Chen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My First Blog]]></title>
+    <link href="http://jychen1026.github.io/blog/my-first-blog.html/"/>
+    <updated>2015-12-13T17:05:10+08:00</updated>
+    <id>http://jychen1026.github.io/blog/my-first-blog</id>
+    <content type="html"><![CDATA[<p>第一篇blog，随便写写，做个开端。</p>
+
+<p>庆祝blog开张大吉。以后有空慢慢再完善。</p>
+]]></content>
+  </entry>
+  
+</feed>
