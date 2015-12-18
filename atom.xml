@@ -4,7 +4,7 @@
   <title><![CDATA[Robert Chen's Blog]]></title>
   <link href="http://jychen1026.github.io/atom.xml" rel="self"/>
   <link href="http://jychen1026.github.io/"/>
-  <updated>2015-12-14T12:59:09+08:00</updated>
+  <updated>2015-12-14T13:59:46+08:00</updated>
   <id>http://jychen1026.github.io/</id>
   <author>
     <name><![CDATA[Robert Chen]]></name>
@@ -14,13 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[My Second Blog]]></title>
+    <title type="html"><![CDATA[Google Tag Manager]]></title>
     <link href="http://jychen1026.github.io/blog/my-second-blog.html/"/>
     <updated>2015-12-14T12:59:07+08:00</updated>
     <id>http://jychen1026.github.io/blog/my-second-blog</id>
-    <content type="html"><![CDATA[<h1>第二篇</h1>
-
-<p>董川是个傻逼</p>
+    <content type="html"><![CDATA[<p>怎么用GTM管理各种代码</p>
 ]]></content>
   </entry>
   
